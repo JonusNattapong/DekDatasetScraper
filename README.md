@@ -282,10 +282,6 @@ python -c "import torch; print(torch.cuda.is_available())"
 3. ทำการเปลี่ยนแปลง
 4. Submit Pull Request
 
-## 📝 License
-
-โปรเจกต์นี้ใช้ MIT License - ดูรายละเอียดในไฟล์ LICENSE
-
 ## 🙏 Credits
 
 - **Crawl4AI**: Framework หลักที่ใช้ในการ web crawling
